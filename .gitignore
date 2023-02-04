@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Chuck Norris Cipher Encoder/task/build/
+/Chuck Norris Cipher Encoder/task/out/
+/Chuck Norris Cipher Encoder/task/out/production/classes/
+/Topics/Constructor/Account and its owner/out/
+/Topics/Constructor/Account and its owner/out/production/classes/
+/Topics/Processing strings/Cutting out the middle of a string/out/
+/Topics/Processing strings/Cutting out the middle of a string/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
