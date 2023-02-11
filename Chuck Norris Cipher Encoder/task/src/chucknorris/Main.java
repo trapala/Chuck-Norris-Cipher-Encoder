@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         /*
          * stage 5
-        */
+         */
         Scanner scanner = new Scanner(System.in);
         String strCase = null;
         String encodedStr;
@@ -78,7 +78,6 @@ public class Main {
                     i--;
                 }
             }
-
         }
         return chuckRepresent.toString();
     }
